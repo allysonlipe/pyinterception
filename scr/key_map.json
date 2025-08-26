@@ -1,0 +1,42 @@
+[
+    {
+        "tecla": "q",
+        "clique": true
+    },
+    {
+        "tecla": "w",
+        "clique": true
+    },
+    {
+        "tecla": "e",
+        "clique": true
+    },
+    {
+        "tecla": "r",
+        "clique": false
+    },
+    {
+        "tecla": 1,
+        "clique": true
+    },
+    {
+        "tecla": 2,
+        "clique": true
+    },
+    {
+        "tecla": 3,
+        "clique": true
+    },
+    {
+        "tecla": 4,
+        "clique": true
+    },
+    {
+        "tecla": "z",
+        "clique": true
+    },
+    {
+        "tecla": "x",
+        "clique": true
+    }
+]
